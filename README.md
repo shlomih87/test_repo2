@@ -1,2 +1,2 @@
 # test_repo2
-test_repo2 7
+test_repo2 8
